@@ -26,8 +26,8 @@ In this assignment we'll re-do the queries from task 3 of the Wedge in `dplyr`. 
 uploaded your Wedge data already, write your queries against those tables. 
 
 I recommend testing your query against a single one of your tables and then 
-using the trick from the `dplyr` class to query against all the tables. Further down 
-I'll provide a reminder of that trick. 
+using wildcard trick from GBQ Further down 
+I'll provide a reminder of how that that trick works in `dplyr`. 
 
 In the Wedge project we pulled sales, transactions, and items across a variety 
 of dimensions. In order to make this assignment a bit simpler, here 
